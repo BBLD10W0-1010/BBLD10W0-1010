@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Maksim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student in Ural Federal University from Russia 🇷🇺</h3>
----
 
 ### 👨‍💻 About me
 
@@ -9,8 +8,7 @@
 - 🌱 I’m currently learning **C#**, **.NET**, **Unity** and backend development
 - 🎮 Interested in game development and software engineering
 - 🚀 Always trying to improve my programming skills
-
----
+- 
 
 ### 🛠️ Tech Stack
 
@@ -20,24 +18,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity" />
 </p>
 
----
 
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://youtube.com/YOUR_CHANNEL" target="_blank">
+  <a href="https://www.youtube.com/@bbld10w0" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 
-  <a href="https://twitch.tv/YOUR_CHANNEL" target="_blank">
+  <a href="https://www.twitch.tv/bbld1owo" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BBLD10W0-1010&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
@@ -46,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBLD10W0-1010&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
 <!--
 **BBLD10W0-1010/BBLD10W0-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
