@@ -7,8 +7,6 @@
   Computer science student in Ural Federal University from Russia
 </h3>
 
----
-
 <table>
   <tr>
     <td width="55%" valign="top">
