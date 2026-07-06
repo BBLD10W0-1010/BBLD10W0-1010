@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Maksim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student in Ural Federal University from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student in Ural Federal University from Russia</h3>
 
 ### 👨‍💻 About me
 
@@ -32,15 +32,9 @@
 </p>
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BBLD10W0-1010&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010"><img src="https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010"></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBLD10W0-1010&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 <!--
 **BBLD10W0-1010/BBLD10W0-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
