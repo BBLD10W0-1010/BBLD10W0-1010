@@ -7,8 +7,7 @@
 - 🎓 I’m studying Computer Science at Ural Federal University
 - 🌱 I’m currently learning **C#**, **.NET**, **Unity** and backend development
 - 🎮 Interested in game development and software engineering
-- 🚀 Always trying to improve my programming skills
-- 
+- 🚀 Always trying to improve my programming skills - now I`m on my way through https://github.com/BBLD10W0-1010/Csharp_Roadmap
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +30,6 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010"><img src="https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010"></a>
 </p>
