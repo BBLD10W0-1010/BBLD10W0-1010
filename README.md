@@ -32,7 +32,7 @@
 </p>
 
 ### 📊 GitHub Stats
-<h3 align="center">[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010)](https://github.com/stats-organization/github-stats-extended)</h3>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BBLD10W0-1010&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
