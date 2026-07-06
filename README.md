@@ -28,6 +28,9 @@
   <a href="https://www.twitch.tv/bbld1owo" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
+    <p align="center">
+    <a href="https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010"><img src="https://github-stats-extended.vercel.app/api?username=BBLD10W0-1010"></a>
+  </p>
 </p>
 
 <p align="center">
