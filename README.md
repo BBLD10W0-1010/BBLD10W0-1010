@@ -38,6 +38,9 @@
   <a href="https://www.twitch.tv/bbld1owo" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
+  <a href="https://leetcode.com/u/BBLD10W0/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
+  </a>
 </p>
 
   </td>
